@@ -2,4 +2,6 @@ streamlit==1.25.0
 transformers==4.34.0
 sentencepiece==0.1.99
 torch==2.0.1
-
+torchvision==0.15.2
+torchaudio==2.0.1
+python==3.10.0
